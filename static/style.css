@@ -1,0 +1,11 @@
+.container{
+    /* text-align: center; */
+    border: 2px solid black;
+    padding: 50px;
+}
+textarea{
+    vertical-align: top;
+}
+input, select{
+    margin:5px;
+}
